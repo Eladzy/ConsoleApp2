@@ -49,5 +49,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\bkg-blu.jpg" />
+    <Content Include="Data\iis.png" />
+    <Content Include="Data\iisstart.htm" />
+    <Content Include="Data\msweb-brand.png" />
+    <Content Include="Data\w-brand.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
